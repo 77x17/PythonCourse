@@ -1,0 +1,5 @@
+Str = input()
+arr = set(Str.split(" "))
+arr = list(arr)
+arr.sort()
+print (arr) 
